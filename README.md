@@ -1,5 +1,3 @@
-# hotel-management-python
-hotel booking and food ordering management system in python
 # 🏨 Hotel & Cafe Management System
 
 **Beginner-friendly Python console application** for hotel room bookings and food ordering with **grand total billing** for multiple rooms! 
