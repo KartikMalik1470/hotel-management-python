@@ -13,8 +13,6 @@
 - **Grand Total Payment** - Single payment for all rooms combined 🧾
 - **Input Validation** - Beginner-friendly error handling without try-except ✅
 
-## 🚀 Quick Demo
-
 
 ## 📋 Room Types & Pricing
 
@@ -29,15 +27,6 @@
 **Breakfast**: Prantha (₹50), Bread Omelette (₹60), Poha (₹40)  
 **Lunch**: Butter Chicken Rice (₹180), Veg Biryani (₹140), Lamb Rogan Josh Naan (₹200)  
 **Dinner**: Butter Masala Dosa (₹120), Idli Sambhar (₹80)
-
-## 🛠️ Tech Stack
-
-
-## 🎮 How to Run
-
-
-## 📁 File Structure
-
 
 ## 🧪 Sample Usage Flow
 
